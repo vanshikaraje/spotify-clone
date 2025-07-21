@@ -6,13 +6,7 @@ It's beginner-friendly and 100% focused on learning how music players actually w
 
 ---
 
-## 📸 Preview
 
-> Simple. Stylish. Functional.
-
-![App Screenshot](./assets/preview.png) <!-- Replace or delete this line if no screenshot -->
-
----
 
 ## 🌟 Key Features
 
