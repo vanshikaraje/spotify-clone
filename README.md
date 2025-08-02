@@ -19,7 +19,7 @@ It's beginner-friendly and 100% focused on learning how music players actually w
   - CSS3 (with utility styling)
   - JavaScript (vanilla, no frameworks)
 
----
+--
 
 ## 📁 Project Structure
 
@@ -32,3 +32,4 @@ spotify-clone/
 ├── /songs/               # Your MP3 files go here!
 ├── /icons/               # Play, pause, next, prev SVGs
 └── /assets/              # Any images or preview screenshots
+
