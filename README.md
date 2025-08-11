@@ -4,8 +4,7 @@ Welcome to my first-ever **Spotify-inspired Music Player** project!
 Built with pure **HTML, CSS, and JavaScript**, this web app plays songs from your local collection with a sleek, Spotify-like interface.  
 It's beginner-friendly and 100% focused on learning how music players actually work. 🎧
 
----
-
+--
 
 
 ## 🌟 Key Features
@@ -32,6 +31,7 @@ spotify-clone/
 ├── /songs/               # Your MP3 files go here!
 ├── /icons/               # Play, pause, next, prev SVGs
 └── /assets/              # Any images or preview screenshots
+
 
 
 
